@@ -1,0 +1,171 @@
+attach light
+detach chassis
+attach dump bed
+attempt to attach bumper
+detach water tank
+attach door
+detach dump bed
+attempt to attach base
+attach step
+attach excavator arm
+detach step
+detach excavator arm
+detach track
+detach door
+attach track
+attach chassis
+attach grill
+attach crane arm
+detach crane arm
+screw cabin
+attach turntable base
+attach sound module
+detach grill
+unscrew cabin
+detach roller
+detach turntable base
+detach turntable top
+attempt to attach arm
+attach turntable top
+attach transport cabin
+detach transport cabin
+detach sound module
+inspect cabin
+attach container
+attach roller
+attach mixer
+attempt to attach interior
+detach engine cover
+detach container
+attach nut
+attempt to attach arm connector
+attach strap
+attach engine cover
+screw arm
+unscrew bumper
+detach mixer
+attempt to detach cabin
+screw body
+detach clamp arm
+unscrew arm
+detach bulldozer arm
+attempt to detach body
+screw roof
+detach ladder basket
+attach mixer stand
+unscrew body
+unscrew roof
+detach roller arm
+detach mixer stand
+detach strap
+inspect body
+attach clamp arm
+attach back seat
+detach push frame
+attach jackhammer arm
+attempt to screw chassis
+attach ladder basket
+attach roller arm
+detach cabin window
+attach bulldozer arm
+detach jackhammer arm
+attempt to attach dump bed
+attach cabin window
+position figurine
+attempt to attach roof
+detach back seat
+attach dashboard
+attach push frame
+attach cylinder
+unscrew arm connector
+detach jackhammer
+remove figurine
+attach cabin back
+attach ladder
+attach lid
+detach dashboard
+attach jackhammer
+detach hook
+attach hook
+detach blade
+attempt to attach wheel
+attach spoiler
+detach lid
+attempt to attach turntable base
+screw wheel
+attach blade
+detach cylinder
+detach basket
+attach basket
+detach fire extinguisher
+attach fire extinguisher
+detach rocker panel
+attempt to attach nut
+screw bumper
+detach clamp
+detach ladder
+attempt to detach interior
+attach rocker panel
+attempt to attach water tank
+attempt to attach excavator arm
+detach tilter
+attach tilter
+attach clamp
+screw container
+detach spoiler
+detach nut
+unscrew bucket
+unscrew base
+unscrew grill
+unscrew strap
+attach connector
+attempt to detach base
+screw base
+attempt to attach engine cover
+attempt to attach bucket
+unscrew mixer stand
+inspect dump bed
+attempt to attach track
+attempt to detach wheel
+detach cabin back
+detach windshield
+attach windshield
+attempt to attach door
+inspect container
+attempt to attach bulldozer arm
+screw transport cabin
+unscrew container
+attempt to detach basket
+unscrew turntable top
+detach engine
+screw arm connector
+screw hook
+screw dump bed
+screw strap
+detach connector
+attempt to detach light
+inspect water tank
+attach engine
+attempt to attach roller arm
+unscrew hook
+attempt to attach cylinder
+unscrew wheel
+attempt to detach crane arm
+unscrew dump bed
+attempt to attach transport cabin
+unscrew spoiler
+unscrew lid
+unscrew roller
+screw turntable top
+detach fire equipment
+screw rocker panel
+attempt to attach rocker panel
+screw roller
+unscrew engine cover
+screw mixer stand
+screw grill
+attempt to attach strap
+attach fire equipment
+detach battery
+attach battery
+attempt to attach sound module
