@@ -3,7 +3,7 @@ We propose a pretraining method that uses two-streams of SSL to learn View-Invar
 
 Download Assembly101 dataset and annotation at: https://assembly-101.github.io/
 
-The project report is here:
+The project report is here: [/materials](https://github.com/XuZhangNYU/Two-stream-View-Invariance-SSL-on-Assembly101/blob/main/materials/DS_GA_3001_Project_Report_Team_12_Xu_Sihang.pdf)
 
 More technical parts:
 
